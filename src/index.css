@@ -1,0 +1,10 @@
+.carouselstyles {
+  width: 95%;
+  margin: auto;
+}
+.carouselheight {
+  height: calc(100vh - 58px);
+}
+.carousel-item img {
+  object-position: bottom;
+}
